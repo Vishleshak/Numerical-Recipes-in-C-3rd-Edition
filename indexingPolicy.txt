@@ -1,0 +1,16 @@
+since the authors of the numerical recipes have not
+indexed their programs, so i think it would be worth
+while to name the programs by their page number on which
+they appear, preceded by its word introduction, that
+should contain the key phrases.
+
+so for example i've named the first program of julian
+day numbers on page 3 as:
+
+pp003_FullMoon.cpp
+
+this taxonomical routine will help in keeping the
+decorum and also giving the flexibility to choose
+exotic names.
+
+cheers!
